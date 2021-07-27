@@ -1,0 +1,5 @@
+build*
+log/*.log
+*.[oa]
+*exe
+.ssh
