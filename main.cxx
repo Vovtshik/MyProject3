@@ -5,5 +5,6 @@
 int main()
 {
    std::cout << "Study git, cmake, gcc" << std::endl;
+   std::cout << "Added new line"
    return 0;
 }
